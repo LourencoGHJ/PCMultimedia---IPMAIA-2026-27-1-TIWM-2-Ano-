@@ -1,1 +1,4 @@
-# -Producao de Conteudos Multimedia / IPMAIA-2026-27-1-TIWM-2-Ano-
+# Multimedia Content Production Portfolio
+
+Welcome to the official multimedia portfolio created by **GuilhermeFaria-A044772**.
+---
