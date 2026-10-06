@@ -12,12 +12,12 @@ Welcome to the official multimedia portfolio created by **GuilhermeFaria-A044772
   <tr>
     <td width="50%" align="center" valign="middle">
       <br>
-      <img src="img/aula1.exerc.jpg" alt="Aula 1 - Exercício de Compressão" width="100%">
+      <img src="img/aula1.exerc.jpg" alt="Aula 1 - width="100%">
       <br><br>
     </td>
     <td width="50%" valign="top">
-      <h3> Aula 1 — Estudo de Compressão JPG</h3>
-      <p>Exercício prático focado no impacto dos algoritmos de compressão lossy em transições de cor suaves.</p>
+      <h3> Aula 1 </h3>
+      <p>Exercício prático.</p>
       <ul>
         <li><b>Ferramenta:</b> Photopea / Photoshop</li>
         <li><b>Técnica:</b> Pincel de borda difusa (0% hardness) em fundo escuro com aplicação de <i>Gaussian Blur</i>.</li>
