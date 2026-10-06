@@ -19,9 +19,7 @@ Welcome to the official multimedia portfolio created by **GuilhermeFaria-A044772
       <h3> Aula 1 </h3>
       <p>Exercício prático.</p>
       <ul>
-        <li><b>Ferramenta:</b> Photopea / Photoshop</li>
-        <li><b>Técnica:</b> Pincel de borda difusa (0% hardness) em fundo escuro com aplicação de <i>Gaussian Blur</i>.</li>
-        <li><b>Exportação:</b> Formato <code>JPG</code> com <b>30% de qualidade</b>.</li>  
+        <li><b>Ferramenta:</b> Photopea </li>
       </ul>
     </td>
   </tr>
