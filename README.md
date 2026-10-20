@@ -12,9 +12,6 @@ Welcome to the multimedia portfolio of **GuilhermeFaria-A044772**, showcasing pr
   <a href="https://github.com/GuilhermeFaria-A044772"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a>
 </p>
 
-<p align="center">
-  <b>DESIGN</b> &nbsp;·&nbsp; <b>IMAGE EDITING</b> &nbsp;·&nbsp; <b>CREATIVE PROCESS</b>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider">
