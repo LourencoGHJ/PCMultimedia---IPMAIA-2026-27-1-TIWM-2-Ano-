@@ -1,0 +1,5 @@
+A. Fases do dia
+Partindo de uma foto original ou de biblioteca, poderão usar ferramentas de correcção de cor e máscaras para adaptar a foto a duas diferentes alturas do dia (ex. final de tarde e day for night).
+
+Formato: livre, mas o lado menor deverá ter pelo menos 1024 px;
+Ficheiro: 2 JPEG, qualidade >= 95%, 'Very High', ou o correspondente no vosso software.

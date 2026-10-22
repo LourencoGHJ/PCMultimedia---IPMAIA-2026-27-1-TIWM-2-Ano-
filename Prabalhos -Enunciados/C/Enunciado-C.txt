@@ -1,0 +1,5 @@
+C. Capa de disco
+Elaborar uma capa de um disco para uma banda/artista real ou fictícia. Esta deverá combinar em camadas o uso de fotografia com formas abstratas e tipografia. Deverá obrigatoriamente incluir o nome da banda/artista e um título.
+
+Formato: 120 x 120 mm @ 600 ppi [2834 x 2834 px];
+Ficheiros: 1 TIFF sem layers, com compressão lossless (LZW).

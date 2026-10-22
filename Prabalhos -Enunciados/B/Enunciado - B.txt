@@ -1,0 +1,5 @@
+B. Pintura ou ilustração
+Partindo de uma foto original ou de biblioteca, poderão usar filtros, correcção de cor, ferramentas de pintura e máscaras para produzir uma imagem que se assemelhe a uma pintura ou ilustração num dado estilo. Não basta aplicar um único efeito!
+
+Formato: livre, mas o lado menor deverá ter pelo menos 1024 px;
+Ficheiro: 1 JPEG, qualidade >= 95%, 'Very High', ou o correspondente no vosso software.
