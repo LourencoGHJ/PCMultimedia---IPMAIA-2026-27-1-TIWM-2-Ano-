@@ -28,7 +28,9 @@ Portfolio de trabalhos práticos desenvolvidos na unidade curricular de **Multim
 | 03 | Design tipográfico | Visit Los Angeles | Photopea | [Ver](#ex4) |
 | A | Correção de cor | Fases do dia — Noite e amanhecer | Photopea | [Ver](#exA) |
 | B | Ilustração digital | Arquitetura Cyber-Noir | Photopea | [Ver](#exB) |
-| C | Design editorial | Skillet — Monster | Photopea | [Ver](#exC) |
+| C | Design de capa musical | Skillet — Monster | Photopea | [Ver](#exC) |
+| D | Fotomontagem | Viajantes no Tempo | Photopea | [Ver](#exD) |
+| E | Design editorial | Capa de revista — O Futuro da Seleção | Photopea | [Ver](#exE) |
 
 ---
 
@@ -147,14 +149,14 @@ Adaptação da mesma fotografia de uma paisagem alpina a duas fases distintas do
       <sub>Fotografia de partida</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="img/fases-do-dia/noite.jpg">
+      <a href="img/fases-do-dia/noite4.png">
         <img src="img/fases-do-dia/noite.jpg" width="100%" alt="Paisagem alpina — Versão noturna com lua">
       </a>
       <p><b>02 / NOITE</b></p>
       <sub>Tons azulados e luz da lua</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="img/fases-do-dia/amanhecer.jpg">
+      <a href="img/fases-do-dia/amanhecer4.png">
         <img src="img/fases-do-dia/amanhecer.jpg" width="100%" alt="Paisagem alpina — Versão de amanhecer com luz dourada">
       </a>
       <p><b>03 / AMANHECER</b></p>
@@ -234,6 +236,47 @@ Capa de disco inspirada na banda de rock **Skillet**, desenvolvida a partir de u
 </p>
 
 <p align="center"><sub>Photopea · Composição gráfica · Design de capa musical</sub></p>
+
+<p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
+
+
+---
+
+<a id="exD"></a>
+
+### 07 — Fotomontagem e manipulação de imagem
+
+**Exercício D · Viajantes no Tempo**
+
+Composição em preto e branco que combina diferentes elementos visuais numa cena surreal. A torre, o drone e a figura humana criam uma narrativa visual, explorando escala, integração de elementos e sombras para dar maior realismo à montagem.
+
+<p align="center">
+  <a href="img/viajantes_no_tempo_pb_sombras_realistas.jpg">
+    <img src="img/viajantes_no_tempo_pb_sombras_realistas.jpg" width="85%" alt="Viajantes no Tempo — Fotomontagem a preto e branco com torre, drone e figura humana">
+  </a>
+</p>
+
+<p align="center"><sub>Photopea · Fotomontagem · Recorte e composição · Sombras realistas</sub></p>
+
+<p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
+
+---
+
+<a id="exE"></a>
+
+### 08 — Design editorial
+
+**Exercício E · Capa de revista — O Futuro da Seleção**
+
+Criação de uma capa para uma revista fictícia dedicada ao futebol português. A composição utiliza hierarquia tipográfica, imagens de destaque e organização editorial para apresentar o tema principal e os conteúdos em chamada.
+
+<p align="center">
+  <a href="img/resultado.png">
+    <img src="img/resultado.png" width="65%" alt="Capa de revista — O Futuro da Seleção">
+  </a>
+</p>
+
+<p align="center"><sub>Photopea · Design editorial · Hierarquia tipográfica · Composição de capa</sub></p>
 
 <p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
