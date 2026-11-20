@@ -135,7 +135,7 @@ Composição tipográfica em que as letras funcionam como máscara para uma foto
 
 **Exercício A · Noite e amanhecer**
 
-Adaptação da mesma fotografia de uma paisagem alpina a duas condições de iluminação distintas. As versões exploram alterações de luminosidade, contraste e tonalidade para representar diferentes fases do dia.
+Adaptação da mesma fotografia de uma paisagem alpina a duas fases distintas do dia. A versão noturna apresenta uma atmosfera azulada, com a lua visível no céu; a versão de amanhecer utiliza tons quentes e luz dourada para representar o nascer do sol.
 
 <table>
   <tr>
@@ -147,18 +147,18 @@ Adaptação da mesma fotografia de uma paisagem alpina a duas condições de ilu
       <sub>Fotografia de partida</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="img/fases-do-dia/noite4.png">
-        <img src="img/fases-do-dia/noite4.pmg" width="100%" alt="Paisagem alpina — Versão noturna">
+      <a href="img/fases-do-dia/noite.jpg">
+        <img src="img/fases-do-dia/noite.jpg" width="100%" alt="Paisagem alpina — Versão noturna com lua">
       </a>
       <p><b>02 / NOITE</b></p>
-      <sub>Escurecimento e tons azulados</sub>
+      <sub>Tons azulados e luz da lua</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="img/fases-do-dia/amanhecer4.png">
-        <img src="img/fases-do-dia/amanhecer4.png" width="100%" alt="Paisagem alpina — Versão de amanhecer com tons quentes">
+      <a href="img/fases-do-dia/amanhecer.jpg">
+        <img src="img/fases-do-dia/amanhecer.jpg" width="100%" alt="Paisagem alpina — Versão de amanhecer com luz dourada">
       </a>
       <p><b>03 / AMANHECER</b></p>
-      <sub>Tons dourados e alaranjados</sub>
+      <sub>Tons quentes e luz do nascer do sol</sub>
     </td>
   </tr>
 </table>
