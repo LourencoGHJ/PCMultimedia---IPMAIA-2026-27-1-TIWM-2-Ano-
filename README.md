@@ -150,14 +150,14 @@ Adaptação da mesma fotografia de uma paisagem alpina a duas fases distintas do
     </td>
     <td width="33.33%" align="center" valign="top">
       <a href="img/fases-do-dia/noite4.png">
-        <img src="img/fases-do-dia/noite.jpg" width="100%" alt="Paisagem alpina — Versão noturna com lua">
+        <img src="img/fases-do-dia/noite4.png" width="100%" alt="Paisagem alpina — Versão noturna com lua">
       </a>
       <p><b>02 / NOITE</b></p>
       <sub>Tons azulados e luz da lua</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
       <a href="img/fases-do-dia/amanhecer4.png">
-        <img src="img/fases-do-dia/amanhecer.jpg" width="100%" alt="Paisagem alpina — Versão de amanhecer com luz dourada">
+        <img src="img/fases-do-dia/amanhecer4.png" width="100%" alt="Paisagem alpina — Versão de amanhecer com luz dourada">
       </a>
       <p><b>03 / AMANHECER</b></p>
       <sub>Tons quentes e luz do nascer do sol</sub>
