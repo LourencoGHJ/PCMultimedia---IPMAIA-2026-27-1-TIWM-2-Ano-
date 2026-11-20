@@ -140,25 +140,25 @@ Adaptação da mesma fotografia de uma paisagem alpina a duas condições de ilu
 <table>
   <tr>
     <td width="33.33%" align="center" valign="top">
-      <a href="Prabalhos%20-Enunciados/A/original-unsplash.jpg">
-        <img src="Prabalhos%20-Enunciados/A/original-unsplash.jpg" width="100%" alt="Paisagem alpina — Fotografia original">
+      <a href="img/fases-do-dia/original-unsplash.jpg">
+        <img src="img/fases-do-dia/original-unsplash.jpg" width="100%" alt="Paisagem alpina — Fotografia original">
       </a>
       <p><b>01 / ORIGINAL</b></p>
       <sub>Fotografia de partida</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="Prabalhos%20-Enunciados/A/lago_noite.jpg">
-        <img src="Prabalhos%20-Enunciados/A/lago_noite.jpg" width="100%" alt="Paisagem alpina — Versão noturna">
+      <a href="img/fases-do-dia/noite.jpg">
+        <img src="img/fases-do-dia/noite.jpg" width="100%" alt="Paisagem alpina — Versão noturna">
       </a>
       <p><b>02 / NOITE</b></p>
       <sub>Escurecimento e tons azulados</sub>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <a href="Prabalhos%20-Enunciados/A/lago_amanhecer.jpg">
-        <img src="Prabalhos%20-Enunciados/A/lago_amanhecer.jpg" width="100%" alt="Paisagem alpina — Versão de amanhecer com tons verdes">
+      <a href="img/fases-do-dia/amanhecer.jpg">
+        <img src="img/fases-do-dia/amanhecer.jpg" width="100%" alt="Paisagem alpina — Versão de amanhecer com tons quentes">
       </a>
       <p><b>03 / AMANHECER</b></p>
-      <sub>Coloração verde e ciano</sub>
+      <sub>Tons dourados e alaranjados</sub>
     </td>
   </tr>
 </table>
