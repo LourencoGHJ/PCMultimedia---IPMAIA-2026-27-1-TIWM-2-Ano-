@@ -1,16 +1,5 @@
-# Exercício X — Viajantes no Tempo
+X. 'Viajantes no tempo'
+Partindo de uma imagem histórica (ver bibliotecas de imagem), deverão inserir pelo menos dois elementos anacrónicos (ex., alguém a falar ao telemóvel no séc. XIX). Não se pretende uma mera colagem; deverão explorar técnicas que tornem o resultado final 'credível', recorrendo a ferramentas de ajuste de cor, usar efeitos que adequem a nitidez e o 'grão' à imagem original, etc. Neste exercício será dada especial atenção à documentação do trabalho em curso que partilharem no caderno digital.
 
-**Autor:** Guilherme Faria  
-**Número:** A044772
-
-Esta pasta reúne os ficheiros finais do exercício X, de acordo com o enunciado.
-
-## Ficheiro final
-- `GuilhermeFaria_A044772_X-1.jpg` — imagem final em JPEG, qualidade ≥95%, com lado menor de pelo menos 1024 px.
-
-## Organização
-- `processo/` — pelo menos duas imagens representativas do desenvolvimento.
-- `variacoes/` — pelo menos uma variação da composição final.
-- `referencias/` — URLs e ficheiros das imagens utilizadas.
-
-> Os ficheiros finais devem ser exportados e nomeados de acordo com as especificações do enunciado.
+Formato: livre, mas o lado menor deverá ter pelo menos 1024 px;
+Ficheiro: 1 JPEG, qualidade >= 95%, 'Very High', ou o correspondente no vosso software.
