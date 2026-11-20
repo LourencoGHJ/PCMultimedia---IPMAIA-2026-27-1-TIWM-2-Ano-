@@ -29,8 +29,8 @@ Portfolio de trabalhos práticos desenvolvidos na unidade curricular de **Multim
 | A | Correção de cor | Fases do dia — Noite e amanhecer | Photopea | [Ver](#exA) |
 | B | Ilustração digital | Arquitetura Cyber-Noir | Photopea | [Ver](#exB) |
 | C | Design de capa musical | Skillet — Monster | Photopea | [Ver](#exC) |
-| X | Fotomontagem | Viajantes no Tempo | Photopea | [Ver](#exX) · [Pasta](Ex_X/) |
-| Z | Design editorial | Capa de revista — O Futuro da Seleção | Photopea | [Ver](#exZ) · [Pasta](Ex_Z/) |
+| X | Fotomontagem | Viajantes no Tempo | Photopea | [Ver](#exX) · [Pasta](Prabalhos%20-Enunciados/X/) |
+| Z | Design editorial | Capa de revista — O Futuro da Seleção | Photopea | [Ver](#exZ) · [Pasta](Prabalhos%20-Enunciados/Z/) |
 
 ---
 
@@ -258,7 +258,7 @@ Composição em preto e branco que combina diferentes elementos visuais numa cen
 
 <p align="center"><sub>Photopea · Fotomontagem · Recorte e composição · Sombras realistas</sub></p>
 
-**Pasta de entrega:** [Ex_X/](Ex_X/) · [Processo](Ex_X/processo/) · [Variações](Ex_X/variacoes/) · [Referências](Ex_X/referencias/)
+**Pasta de entrega:** [Prabalhos%20-Enunciados/X/](Prabalhos%20-Enunciados/X/) · [Processo](Prabalhos%20-Enunciados/X/processo/) · [Variações](Prabalhos%20-Enunciados/X/variacoes/) · [Referências](Prabalhos%20-Enunciados/X/referencias/)
 
 <p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
@@ -282,7 +282,7 @@ Criação de uma capa para uma revista fictícia dedicada ao futebol português.
 
 <p align="center"><sub>Photopea · Design editorial · Hierarquia tipográfica · Composição de capa</sub></p>
 
-**Pasta de entrega:** [Ex_Z/](Ex_Z/) · [Processo](Ex_Z/processo/) · [Variações](Ex_Z/variacoes/) · [Referências](Ex_Z/referencias/)
+**Pasta de entrega:** [Prabalhos%20-Enunciados/Z/](Prabalhos%20-Enunciados/Z/) · [Processo](Prabalhos%20-Enunciados/Z/processo/) · [Variações](Prabalhos%20-Enunciados/Z/variacoes/) · [Referências](Prabalhos%20-Enunciados/Z/referencias/)
 
 <p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
