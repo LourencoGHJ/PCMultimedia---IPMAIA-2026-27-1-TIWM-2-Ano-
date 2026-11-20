@@ -29,8 +29,8 @@ Portfolio de trabalhos práticos desenvolvidos na unidade curricular de **Multim
 | A | Correção de cor | Fases do dia — Noite e amanhecer | Photopea | [Ver](#exA) |
 | B | Ilustração digital | Arquitetura Cyber-Noir | Photopea | [Ver](#exB) |
 | C | Design de capa musical | Skillet — Monster | Photopea | [Ver](#exC) |
-| D | Fotomontagem | Viajantes no Tempo | Photopea | [Ver](#exD) |
-| E | Design editorial | Capa de revista — O Futuro da Seleção | Photopea | [Ver](#exE) |
+| X | Fotomontagem | Viajantes no Tempo | Photopea | [Ver](#exX) · [Pasta](Ex_X/) |
+| Z | Design editorial | Capa de revista — O Futuro da Seleção | Photopea | [Ver](#exZ) · [Pasta](Ex_Z/) |
 
 ---
 
@@ -242,11 +242,11 @@ Capa de disco inspirada na banda de rock **Skillet**, desenvolvida a partir de u
 
 ---
 
-<a id="exD"></a>
+<a id="exX"></a>
 
 ### 07 — Fotomontagem e manipulação de imagem
 
-**Exercício D · Viajantes no Tempo**
+**Exercício X · Viajantes no Tempo**
 
 Composição em preto e branco que combina diferentes elementos visuais numa cena surreal. A torre, o drone e a figura humana criam uma narrativa visual, explorando escala, integração de elementos e sombras para dar maior realismo à montagem.
 
@@ -258,15 +258,19 @@ Composição em preto e branco que combina diferentes elementos visuais numa cen
 
 <p align="center"><sub>Photopea · Fotomontagem · Recorte e composição · Sombras realistas</sub></p>
 
+**Pasta de entrega:** [Ex_X/](Ex_X/) · [Processo](Ex_X/processo/) · [Variações](Ex_X/variacoes/) · [Referências](Ex_X/referencias/)
+
+<p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
+
 <p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
 ---
 
-<a id="exE"></a>
+<a id="exZ"></a>
 
 ### 08 — Design editorial
 
-**Exercício E · Capa de revista — O Futuro da Seleção**
+**Exercício Z · Capa de revista — O Futuro da Seleção**
 
 Criação de uma capa para uma revista fictícia dedicada ao futebol português. A composição utiliza hierarquia tipográfica, imagens de destaque e organização editorial para apresentar o tema principal e os conteúdos em chamada.
 
@@ -277,6 +281,10 @@ Criação de uma capa para uma revista fictícia dedicada ao futebol português.
 </p>
 
 <p align="center"><sub>Photopea · Design editorial · Hierarquia tipográfica · Composição de capa</sub></p>
+
+**Pasta de entrega:** [Ex_Z/](Ex_Z/) · [Processo](Ex_Z/processo/) · [Variações](Ex_Z/variacoes/) · [Referências](Ex_Z/referencias/)
+
+<p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
 <p align="right"><a href="#topo">↑ Voltar ao topo</a></p>
 
