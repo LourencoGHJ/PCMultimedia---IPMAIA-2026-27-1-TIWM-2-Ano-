@@ -1,16 +1,7 @@
-# Exercício Z — Capa de revista
+Z. Capa de revista
+Elaborar uma capa para uma revista fictícia: a capa deverá ser ilustrada com uma imagem que evidencie alguma intervenção vossa (tratamento fotográfico ou o uso de ferramentas de pintura ou ilustração). Deverá obrigatoriamente incluir um título, data, um destaque, e as referências a pelo menos mais três artigos.
 
-**Autor:** Guilherme Faria  
-**Número:** A044772
-
-Esta pasta reúne os ficheiros finais do exercício Z, de acordo com o enunciado.
-
-## Ficheiro final
-- `GuilhermeFaria_A044772_Z-1.tif` — capa A4, 2480 × 3508 px, 300 ppi, TIFF sem layers e compressão LZW; em alternativa, PDF.
-
-## Organização
-- `processo/` — pelo menos duas imagens representativas do desenvolvimento.
-- `variacoes/` — pelo menos uma variação da capa.
-- `referencias/` — URLs e ficheiros das imagens utilizadas.
-
-> A capa deve incluir título, data, um destaque e referências a pelo menos três artigos.
+Formato: A4 vectorial ou matricial @ 300ppi, retrato [2480 x 3508 px];
+Ficheiros - optar por uma das seguintes opções:
+a) 1x PDF, formas e texto vectorial; 
+b) 1 x TIFF sem layers, com compressão lossless (LZW).
